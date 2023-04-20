@@ -4,6 +4,7 @@ Pizza
 Pierogi
 Meatloaf
 Lobster
+Tri-tip
 
 MOVIES
 ======
